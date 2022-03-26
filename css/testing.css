@@ -1,0 +1,12 @@
+.d1{
+    position: relative;
+    display: flex;
+}
+.d3{
+    background-color: aqua;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1%;
+}
