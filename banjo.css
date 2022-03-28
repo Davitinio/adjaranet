@@ -1,0 +1,97 @@
+.one{
+    width: 100%;
+    height: 500px;
+    background-color: tomato;
+    opacity: 50%;
+}
+.two{
+    width: 980px;
+    height: 30px;
+    background-color: rgb(71, 255, 95);
+    opacity: 50%;
+    margin: 10px auto;
+}
+.three{
+    width: 980px;
+    height: 320px;
+    background-color: rgb(83, 71, 255);
+    opacity: 50%;
+    margin: 0 auto 30px auto;
+}
+.four{
+    width: 980px;
+    height: 320px;
+    background-color: rgb(53, 52, 7);
+    opacity: 50%;
+    margin: 0 auto 30px auto;
+}
+.five{
+    width: 980px;
+    height: 320px;
+    background-color: rgb(18, 4, 78);
+    opacity: 50%;
+    margin: 0 auto 30px auto;
+}
+.six{
+    width: 980px;
+    height: 320px;
+    background-color: rgb(49, 3, 42);
+    opacity: 50%;
+    margin: 0 auto 30px auto;
+}
+.seven{
+    width: 980px;
+    height: 320px;
+    background-color: rgb(5, 54, 20);
+    opacity: 50%;
+    margin: 0 auto 30px auto;
+}
+.eight{
+    width: 980px;
+    height: 320px;
+    background-color: rgb(11, 54, 78);
+    opacity: 50%;
+    margin: 0 auto 30px auto;
+}
+.nine{
+    width: 980px;
+    height: 300px;
+    background-color: rgb(46, 18, 5);
+    opacity: 50%;
+    margin: 0 auto 30px auto;
+}
+.ten{
+    width: 1022px;
+    height: 469px;
+    background-color: rgb(18, 4, 78);
+    opacity: 50%;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+}
+.eleven{
+    width: 980px;
+    height: 320px;
+    background-color: rgb(4, 66, 25);
+    opacity: 50%;
+    margin: 0 auto 30px auto;
+}
+.twelve{
+    width: 980px;
+    height: 300px;
+    background-color: rgb(46, 18, 5);
+    opacity: 50%;
+    margin: 0 auto 30px auto;
+}
+.thirteen{
+    width: 980px;
+    height: 320px;
+    background-color: rgb(5, 33, 46);
+    opacity: 50%;
+    margin: 0 auto 30px auto;
+}.footer{
+    width: 100%;
+    height: 104px;
+    background-color: rgb(70, 73, 75);
+    opacity: 70%;
+    margin: 0 auto 25px auto;
+}
