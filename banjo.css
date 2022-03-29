@@ -98,6 +98,25 @@
     color:  rgb(85, 84, 84);
     margin-top: 7px;
 }
+.title-div{
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+}
+.button-title{
+    font-family: 'BPG Mrgvlovani Caps';
+    border-radius: 5px;
+    border-style: none;
+    background-color: rgb(255, 255, 255);
+    width: 60px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.selected{
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    color: aliceblue;
+}
 .nav-arrows{
     width: 40px;
     height: 100%;
