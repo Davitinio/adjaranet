@@ -42,15 +42,11 @@
 .seven{
     width: 980px;
     height: 320px;
-    background-color: rgb(5, 54, 20);
-    opacity: 50%;
     margin: 0 auto 30px auto;
 }
 .eight{
     width: 980px;
     height: 320px;
-    background-color: rgb(11, 54, 78);
-    opacity: 50%;
     margin: 0 auto 30px auto;
 }
 .nine{
@@ -136,6 +132,11 @@
     display: flex;
     justify-content: space-between;
 }
+.img-items{
+    border-radius: 5px;
+    width: 185px;
+    height: 280px;
+}
 .items{
     width: 185px;
     height: 100%;
@@ -152,3 +153,8 @@
     opacity: 70%;
     margin: 0 auto 0 auto;
 }
+
+
+
+
+
