@@ -14,22 +14,16 @@
 .three{
     width: 980px;
     height: 320px;
-    background-color: rgb(83, 71, 255);
-    opacity: 50%;
     margin: 0 auto 30px auto;
 }
 .four{
     width: 980px;
     height: 320px;
-    background-color: rgb(53, 52, 7);
-    opacity: 50%;
     margin: 0 auto 30px auto;
 }
 .five{
     width: 980px;
     height: 320px;
-    background-color: rgb(18, 4, 78);
-    opacity: 50%;
     margin: 0 auto 30px auto;
 }
 .six{
@@ -59,10 +53,14 @@
 .ten{
     width: 1022px;
     height: 469px;
-    background-color: rgb(18, 4, 78);
-    opacity: 50%;
     margin: 0 auto 30px auto;
     border-radius: 10px;
+    background-image: url(img/turkey.jpeg);
+    background-size: cover;
+    padding: 57px 15px 20px 15px;
+}
+.mrgin-btm{
+    margin-top: 75px;
 }
 .eleven{
     width: 980px;
@@ -97,7 +95,7 @@
 .title-div{
     display: flex;
     width: 500px;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .button-title{
     font-family: 'BPG Mrgvlovani Caps';
@@ -152,6 +150,9 @@
     background-color: rgb(70, 73, 75);
     opacity: 70%;
     margin: 0 auto 0 auto;
+}
+.white-color{
+    color: rgba(255, 255, 255, 0.829)
 }
 
 
