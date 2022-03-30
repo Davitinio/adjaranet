@@ -262,6 +262,14 @@ body{
     font-size: 12px;
     margin-top: 20px;
 }
+.foot-down{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.foot-down img:first-child{
+    width: 150px;
+}
 .white-color{
     color: rgba(255, 255, 255, 0.829)
 }
