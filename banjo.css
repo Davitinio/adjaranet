@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(222, 232, 240);
+}
 .one{
     width: 100%;
     height: 500px;
@@ -80,9 +83,31 @@
 .nine{
     width: 980px;
     height: 300px;
-    background-color: rgb(46, 18, 5);
-    opacity: 50%;
     margin: 0 auto 30px auto;
+}
+.nine-down{
+    width: 980px;
+    height: 270px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nine-down img{
+    width: 384px;
+    height: 100%;
+    background-color: black;
+}
+.secondd-items{
+    width: 583px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;    
+    align-content: space-between;
+    flex-wrap: wrap;
+}
+.secondd-items img{
+    width: 185px;
+    height: 128px;
 }
 .ten{
     width: 1022px;
@@ -104,10 +129,22 @@
 .twelve{
     width: 980px;
     height: 300px;
-    background-color: rgb(46, 18, 5);
-    opacity: 50%;
     margin: 0 auto 30px auto;
 }
+.twelve-cont{
+    width: 100%;
+    height: 270px;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    flex-wrap: wrap;
+}
+.twelve-cont img{
+    width: 154px;
+    height: 128px;
+    border-radius: 7px;
+}
+
 .thirteen{
     width: 980px;
     height: 320px;    
@@ -181,14 +218,44 @@
 .footer{
     width: 100%;
     height: 104px;
-    background-color: rgb(70, 73, 75);
+    background-color: rgb(255, 255, 255);
     opacity: 70%;
     margin: 0 auto 0 auto;
+}
+.foot-cont{
+    width: 980px;
+    height: 100%;
+    background-color: blueviolet;
+    margin: 0 auto 0 auto;
+}
+.footer-up-div{
+    width: 100%;
+    height: 50%;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+}
+.footer-left-div{    
+    width: 80%;    
+}
+.button-footer{
+    font-family: 'BPG Mrgvlovani Caps';
+    border-radius: 5px;
+    border-style: none;
+    background-color: rgb(255, 255, 255);
+    
+    font-size: 14px;
+    cursor: pointer;
+}
+.footer-selected{
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    color: aliceblue;
 }
 .white-color{
     color: rgba(255, 255, 255, 0.829)
 }
-
 
 
 
