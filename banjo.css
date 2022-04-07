@@ -53,21 +53,60 @@ body{
     bottom: 0;
     width: 100%;
     height: 100px;
-    background-color: #2124e9;
+}
+.title1{
+    font-family: 'BPG Mrgvlovani Caps';
+    font-size: 26px;
+    color: white;
+    margin-left: 10px;
+}
+.name-and-dots{
+    display: flex;
+    justify-content: space-between;
+}
+.name-and-dots h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color: white;
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.dots{
+    display: inline-block;
+    margin-right: 50px;
+}
+.dot{
+    background-color: rgb(196, 196, 196);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+}
+.search-1-icon{
+    margin-top: 5px;
+}
+.search-1-icon img{
+    float: right;
+    margin-right: 16px;
+}
+.search-input{
+    width: 95%;
+    height: 30px;
+    border-radius: 5px;
+    padding-left: 45%;
+    font-family: 'BPG Mrgvlovani Caps';
+    background-color: rgb(187, 193, 202);
+    border-color: #6365e2;
 }
 .fb{
-    width: 26%;
-    
+    width: 26%;    
     display: flex;
-    padding: 16px 0;
-    
-    
-    
+    padding: 16px 0;    
 }
 .fb img{
     height: 18px;
     margin-top: 2px;
-
 }
 .fb p{
     box-sizing: border-box;
