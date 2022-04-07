@@ -10,3 +10,15 @@
 button img:hover{  
   filter: invert(50) sepia(50) saturate(60) hue-rotate(190deg);
 }
+.insert-img{
+  position: relative;
+  width: 500px;
+  height: 100px;
+  
+}
+.insert-img img{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  object-fit: cover;
+}
